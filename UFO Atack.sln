@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFO Atack", "Reach_the_moon_1.0\UFO Atack.csproj", "{2F11C840-ED41-438F-8CC3-1F86F02A1F94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F11C840-ED41-438F-8CC3-1F86F02A1F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F11C840-ED41-438F-8CC3-1F86F02A1F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F11C840-ED41-438F-8CC3-1F86F02A1F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F11C840-ED41-438F-8CC3-1F86F02A1F94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97D0E354-A501-4464-A667-E7756BEDB5A4}
+	EndGlobalSection
+EndGlobal
